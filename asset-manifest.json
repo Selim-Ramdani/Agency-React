@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Agency-React/static/css/main.d66202a6.css",
+    "main.js": "/Agency-React/static/js/main.c339fac8.js",
+    "index.html": "/Agency-React/index.html",
+    "main.d66202a6.css.map": "/Agency-React/static/css/main.d66202a6.css.map",
+    "main.c339fac8.js.map": "/Agency-React/static/js/main.c339fac8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d66202a6.css",
+    "static/js/main.c339fac8.js"
+  ]
+}
